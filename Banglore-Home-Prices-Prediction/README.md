@@ -1,4 +1,4 @@
-# Banglore-Home-Prices-Prediction
+# Bangalore Home Prices Prediction
 
 ![image](https://github.com/user-attachments/assets/634c2fb6-c8de-482b-988c-28b573c89a8a)
 
